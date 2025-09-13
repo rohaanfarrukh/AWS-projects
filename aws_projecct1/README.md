@@ -44,7 +44,6 @@ The goal was to learn the basics of launching an EC2 instance, configuring secur
 | EC2 instance running | ![EC2 Screenshot](https://github.com/rohaanfarrukh/AWS-projects/blob/main/aws_projecct1/project_1/website.png) |
 | Webpage in browser | ![Webpage Screenshot](https://github.com/rohaanfarrukh/AWS-projects/blob/main/aws_projecct1/project_1/ec2%20instances.png) |
 
-![EC2 Screenshot](https://github.com/rohaanfarrukh/AWS-projects/blob/main/aws_projecct1/project_1/website.png) 
 ---
 
 ## 📢 Key Takeaways

@@ -42,7 +42,7 @@ The goal was to learn the basics of launching an EC2 instance, configuring secur
 ## 📸 Screenshots
 | Step | Screenshot |
 |------|-------------|
-| EC2 instance running | ![EC2 Screenshot](./screenshots/ec2-instance.png) |
+| EC2 instance running | ![EC2 Screenshot](https://github.com/rohaanfarrukh/AWS-projects/blob/main/aws_projecct1/project_1/website.png) |
 | Webpage in browser | ![Webpage Screenshot](./screenshots/webpage.png) |
 
 ---

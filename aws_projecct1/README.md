@@ -48,12 +48,9 @@ The goal was to learn the basics of launching an EC2 instance, configuring secur
 
 ---
 
-## 🔮 Next Steps / Improvements
-- Add HTTPS support with AWS Certificate Manager.
-- Automate deployment using a script or Terraform.
-- Set up monitoring with CloudWatch for server health.
+## 📢 Key Takeaways
+This project gave me hands-on experience with EC2, basic networking, and server setup in AWS.  
+It’s a strong starting point for building more complex cloud architectures.
 
 ---
-
-## 📂 Repository Structure
 

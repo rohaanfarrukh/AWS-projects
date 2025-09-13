@@ -14,7 +14,7 @@ The goal was to learn the basics of launching an EC2 instance, configuring secur
 ---
 
 ## 🏗️ Architecture Diagram
-![Architecture Diagram](./screenshots/architecture.png)
+![Architecture Diagram]([./screenshots/architecture.png](https://github.com/rohaanfarrukh/AWS-projects/blob/main/aws_projecct1/project_1/project1_diagram.png))
 
 > *(You can create this using draw.io or Lucidchart and upload it to your repo.)*
 

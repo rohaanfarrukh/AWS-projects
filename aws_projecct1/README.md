@@ -43,7 +43,6 @@ The goal was to learn the basics of launching an EC2 instance, configuring secur
 | Step | Screenshot |
 |------|-------------|
 | EC2 instance running | ![EC2 Screenshot](./screenshots/ec2-instance.png) |
-| Security group setup | ![Security Group](./screenshots/security-group.png) |
 | Webpage in browser | ![Webpage Screenshot](./screenshots/webpage.png) |
 
 ---

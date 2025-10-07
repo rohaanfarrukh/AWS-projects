@@ -17,6 +17,8 @@ AWS Glue ETL Job (PySpark Script)
 ↓
 S3 (Cleaned Data)
 
+![Architecture Diagram](https://github.com/rohaanfarrukh/AWS-projects/blob/main/aws-project2/graph/graph.png)
+
 ---
 
 
